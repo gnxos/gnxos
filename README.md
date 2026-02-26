@@ -43,9 +43,6 @@ I build **production-grade AI systems**: distributed runtimes, workflow platform
 🚀 **Startup-aware** — speed + tradeoffs without compromising reliability  
 🔗 **Full-stack AI** — from embeddings + retrieval to integrations + evals
 
-## GitHub Activity
-<img src="https://ghchart.rshah.org/39d353/gnxos" alt="GitHub Activity Graph" width="100%"/>
-
 ## Open to
 - Collaborations on **AI agents/workflows**, evals, and developer tooling  
 - Advisory / build support for teams moving **prototype → production**
@@ -58,6 +55,8 @@ I build **production-grade AI systems**: distributed runtimes, workflow platform
 
 **Founder &nbsp;|&nbsp; Applied AI Engineer &nbsp;|&nbsp; Systems Builder**
 
+## GitHub Activity
+<img src="https://ghchart.rshah.org/39d353/gnxos" alt="GitHub Activity Graph" width="100%"/>
 📍 
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gnxos&theme=github-compact&hide_border=true&bg_color=0d1117&color=39d353&line=39d353&point=ffffff)](https://github.com/gnxos)
