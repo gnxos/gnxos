@@ -16,11 +16,10 @@ I build **production-grade AI systems**: distributed runtimes, workflow platform
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -52,7 +51,7 @@ I build **production-grade AI systems**: distributed runtimes, workflow platform
 - Advisory / build support for teams moving **prototype → production**
 
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gnana%20Teja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gnteja)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gn%20Teja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gnteja)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/Follow-gnxos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gnxos?tab=followers)
 <!--
