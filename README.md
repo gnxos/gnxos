@@ -1,6 +1,6 @@
 ## Hi, I'm Gn Teja 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=99999&color=A78BFA&center=true&vCenter=true&width=600&lines=Founder+%7C+Applied+AI+Engineer+%7C+Systems+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=99999&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Founder+%7C+Applied+AI+Engineer+%7C+Systems+Builder)](https://git.io/typing-svg)
 
 
 🇺🇸 San Francisco, USA &nbsp;↔&nbsp; 🇮🇳 Bengaluru, India
